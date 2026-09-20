@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Vibrant color palette -->
+    <color name="blue_primary">#2196F3</color>
+    <color name="blue_dark">#1976D2</color>
+    <color name="orange_accent">#FF9800</color>
+    <color name="green_win">#4CAF50</color>
+    <color name="red_loss">#F44336</color>
+    <color name="surface_background">#F5F7FA</color>
+    <color name="board_card_bg">#FFFFFF</color>
+    <color name="cell_empty">#F0F2F5</color>
+
+    <color name="x_mark">#2196F3</color>
+    <color name="o_mark">#FF9800</color>
+    <color name="win_highlight">#E8F5E9</color>
+
+    <!-- Compatibility aliases for older layouts -->
+    <color name="blue_900">#1976D2</color>
+    <color name="blue_700">#2196F3</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="orange_700">#FF9800</color>
+    <color name="surface_light">#F5F7FA</color>
+    <color name="board_line">#2196F3</color>
+</resources>
